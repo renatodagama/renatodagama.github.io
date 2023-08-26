@@ -1,8 +1,4 @@
----
-layout: page
-title: Sobre
-permalink: /Sobre/
----
+
 
 ![](assets/fotoCurriculo.jpg)
 
